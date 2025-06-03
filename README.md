@@ -17,7 +17,7 @@ A simple Python script that downloads high-quality wallpapers from [Wallhaven.cc
         git clone https://github.com/Sdinzsh/Wallpaper-Downloader.git
         cd wallhaven-downloader
 ### 2. Run the Script
-        python3 wallheaven.py
+        python3 wallhaven.py
 ## Requirements
   requests module
     Install manually:
